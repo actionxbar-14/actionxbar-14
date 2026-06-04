@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anubhav Pathak
 ======================================================================================================================================
 
-Native - Cloud Enthusiast , Aspiring DevOps Engineer
+Native - Cloud Enthusiast , Aspiring Data Engineer
 ----------------------------------------------------
 
 Aspiring DevOps Engineer | BTech CSE '27 💡 Passionate about Cloud, Automation & Scalable Systems 🛠️ Skills: HTML, CSS,JS, Tailwind CSS , React
