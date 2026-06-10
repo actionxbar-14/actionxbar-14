@@ -1,18 +1,141 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anubhav Pathak
-======================================================================================================================================
+<div align="center">
 
-Native - Cloud Enthusiast , Aspiring Data Engineer
-----------------------------------------------------
+# Hi 👋, I'm Anubhav Pathak
 
-Aspiring DevOps Engineer | BTech CSE '27 💡 Passionate about Cloud, Automation & Scalable Systems 🛠️ Skills: HTML, CSS,JS, Tailwind CSS , React
+### Data Analyst | Aspiring Data Engineer
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [ankitpaths144@gmail.com](mailto:ankitpaths144@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Insights;Aspiring+Data+Engineer;SQL+%7C+Python+%7C+Power+BI;Building+ETL+Pipelines;Learning+Big+Data+Technologies" alt="Typing SVG" />
 
-### Skills
+</div>
 
+---
+
+## 📊 About Me
+
+🎓 B.Tech Computer Science Student (2027)
+
+📈 Passionate about Data Analytics and Data Engineering
+
+🐍 Working with Python for Data Analysis
+
+🗄️ Building SQL Projects and Data Models
+
+📊 Creating Dashboards using Power BI
+
+⚙️ Exploring ETL Pipelines and Data Warehousing
+
+☁️ Learning Cloud Technologies and Big Data Ecosystem
+
+---
+
+## 🚀 Current Learning Path
+
+```text
+SQL Advanced Queries
+        ↓
+Python for Data Analytics
+        ↓
+Power BI Dashboards
+        ↓
+ETL Pipelines
+        ↓
+Data Warehousing
+        ↓
+Apache Spark
+        ↓
+Cloud Data Engineering
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Analytics
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,vscode,gcp" />
 </p>
 
+### Data Analytics Tools
+
+- SQL
+- Python
+- Pandas
+- NumPy
+- Excel
+- Power BI
+- Data Visualization
+
+### Data Engineering Concepts
+
+- ETL Pipelines
+- Data Warehousing
+- Data Modeling
+- Cloud Fundamentals
+- Big Data Fundamentals
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=actionxbar-14&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=actionxbar-14&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=actionxbar-14&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=actionxbar-14&theme=tokyo-night&hide_border=true" width="100%"/>
+
+---
+
+## 🎯 2026 Goals
+
+- Build 5+ SQL Data Analysis Projects
+- Create Interactive Power BI Dashboards
+- Complete End-to-End ETL Project
+- Learn Apache Spark
+- Build Data Engineering Portfolio
+- Prepare for Data Analyst & Data Engineer Roles
+
+---
+
+## 📂 Featured Projects
+
+### 📊 SQL Data Analysis Project
+Analyze business datasets using advanced SQL queries, joins, views, CTEs, and optimization techniques.
+
+### 📈 Power BI Dashboard
+Interactive business intelligence dashboard with KPI tracking and visual insights.
+
+### 🐍 Python EDA Project
+Data cleaning, transformation, analysis, and visualization using Python.
+
+### ⚙️ ETL Pipeline Project
+Extract, Transform, and Load pipeline demonstrating Data Engineering fundamentals.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:ankitpaths144@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 📊 Turning Raw Data into Actionable Insights
+
+![](https://komarev.com/ghpvc/?username=actionxbar-14&color=blue)
+
+</div>
