@@ -11,6 +11,10 @@
 ---
 
 ## 📊 About Me
+I am a B.Tech Computer Science student with a strong interest in Data Analytics, Data Engineering, and Cloud Technologies.
+Currently, I am building skills in Python, SQL, Excel, Power BI, and AWS while working on data-driven projects and continuously exploring how data can be transformed into actionable business insights.
+My goal is to develop expertise in data pipelines, ETL processes, data warehousing, cloud platforms, and business analytics to solve real-world problems and support data-driven decision-making.
+I regularly share my learning journey, projects, and insights related to Data Analytics, Data Engineering, and Cloud Computing.
 
 🎓 B.Tech Computer Science Student (2027)
 
