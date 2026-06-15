@@ -81,7 +81,7 @@ Cloud Data Engineering
 ---
 
 
-<p alig n="center"> <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME"> <img src="https://img.shields.io/badge/HackerRank-Live%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a> </p>
+<p alig n="center"> <a href="https://www.hackerrank.com/profile/ankitpaths144"> <img src="https://img.shields.io/badge/HackerRank-Live%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a> </p>
 
 📈 Problem Solving Focus
 
