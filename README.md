@@ -147,11 +147,17 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 ---
 
-## 📊 GitHub Contribution & Activity
+
+## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=actionxbar-14&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/actionxbar-14/actionxbar-14/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
+
+<p align="center">
+  <i>Visualizing consistency, contributions, and continuous learning.</i>
+</p>
+
 
 ### Recent Repository Activity
 
