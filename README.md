@@ -95,11 +95,9 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=actionxbar-14&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
----
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Contribution Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=actionxbar-14&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
@@ -110,7 +108,6 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=actionxbar-14&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
----
 ---
 
 ## 🏆 LeetCode Analytics Dashboard
