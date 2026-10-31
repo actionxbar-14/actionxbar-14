@@ -76,7 +76,7 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 ---
 
 
-## 🛠️ Tech Stack
+
 
 <img width="1536" height="1024" alt="Neon Tech Stack Dashboard" src="https://github.com/user-attachments/assets/3747c116-f666-48b1-9050-9388efe1dc44" />
 
@@ -95,9 +95,6 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=actionxbar-14&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=actionxbar-14&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
