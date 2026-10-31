@@ -84,18 +84,8 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 
 
+--
 
-
-
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=actionxbar-14&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=actionxbar-14&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📊 GitHub Contribution Analytics
 
@@ -107,6 +97,8 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=actionxbar-14&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
+
+
 
 ---
 
@@ -123,7 +115,6 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 ---
 
----
 
 ## 📂 Featured Projects
 
