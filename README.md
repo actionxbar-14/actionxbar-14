@@ -78,7 +78,7 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 ## 🛠️ Tech Stack
 
-"C:\Users\ANUBHAV\Downloads\Neon Tech Stack Dashboard.png"
+<img width="1536" height="1024" alt="Neon Tech Stack Dashboard" src="https://github.com/user-attachments/assets/3747c116-f666-48b1-9050-9388efe1dc44" />
 
 
 
