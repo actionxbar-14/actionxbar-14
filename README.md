@@ -32,24 +32,38 @@ I regularly share my learning journey, projects, and insights related to Data An
 
 ---
 
-## 🚀 Current Learning Path
+## 📈 Current Learning Path
 
 ```text
-SQL Advanced Queries
-        ↓
-Python for Data Analytics
-        ↓
-Power BI Dashboards
-        ↓
-ETL Pipelines
-        ↓
-Data Warehousing
-        ↓
-Apache Spark
-        ↓
-Cloud Data Engineering
+        SQL & Advanced Querying
+                  ↓
+       Python for Data Analytics
+          (Pandas & NumPy)
+                  ↓
+       Exploratory Data Analysis
+          (EDA & Data Cleaning)
+                  ↓
+       Power BI & Business Intelligence
+          (Data Modeling & DAX)
+                  ↓
+       BFSI / FinTech Domain Analytics
+       (Banking, Payments & Lending)
+                  ↓
+          Microsoft Fabric Analytics
+       (Lakehouse, Data Factory & OneLake)
+                  ↓
+       Data Engineering Fundamentals
+          (ETL / ELT & Data Modeling)
+                  ↓
+       Data Warehousing & Data Lakes
+                  ↓
+       Cloud Data Engineering
+          (AWS & Big Data)
+                  ↓
+       Apache Spark & Distributed Processing
 ```
 
+**Career Progression:** Data Analyst → BFSI + Fabric Data Analyst → Analytics Data Engineer
 ---
 
 ## 🛠️ Tech Stack
