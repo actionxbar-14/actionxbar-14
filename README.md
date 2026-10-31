@@ -71,41 +71,60 @@ I regularly share my learning journey, projects, and insights related to Data An
 
 ## Career Progression: 
 
-Data Analyst   →  BFSI + Fabric Data Analyst   →    **Analytics Data Engineer
+Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
  
 ---
 
 
 
+## ⚙️ Tech Stack
 
+### Programming & Data Analytics
 
-## 🛠️ Tech Stack
-
-### Programming & Analytics
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,vscode,gcp" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-### Data Analytics Tools
+### Database & Query Languages
 
-- SQL
-- Python
-- Pandas
-- NumPy
-- Excel
-- Power BI
-- Data Visualization
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-### Data Engineering Concepts
+### Data Analytics & Business Intelligence
 
-- ETL Pipelines
-- Data Warehousing
-- Data Modeling
-- Cloud Fundamentals
-- Big Data Fundamentals
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
----
+### Data Engineering & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoftfabric&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+</p>
+
+### Development & Version Control
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+
+
+
+
+
+
 
 
 <p alig n="center"> <a href="https://www.hackerrank.com/profile/ankitpaths144"> <img src="https://img.shields.io/badge/HackerRank-Live%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a> </p>
