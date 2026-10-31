@@ -78,7 +78,7 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 ## 🛠️ Tech Stack
 
-![Uploading Neon Tech Stack Dashboard.png…]()
+"C:\Users\ANUBHAV\Downloads\Neon Tech Stack Dashboard.png"
 
 
 
@@ -101,37 +101,6 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 ---
 
-
-## 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/actionxbar-14/actionxbar-14/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
-
-<p align="center">
-  <i>Visualizing consistency, contributions, and continuous learning.</i>
-</p>
-
-
-### Recent Repository Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<p align="center">
-  <i>Consistently learning, building, and contributing to data-driven projects.</i>
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- Build 5+ SQL Data Analysis Projects
-- Create Interactive Power BI Dashboards
-- Complete End-to-End ETL Project
-- Learn Apache Spark
-- Build Data Engineering Portfolio
-- Prepare for Data Analyst & Data Engineer Roles
 
 ---
 
