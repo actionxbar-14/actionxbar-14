@@ -78,7 +78,8 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 ## 🛠️ Tech Stack
 
-https://chatgpt.com/s/m_6ae5d5f7721c81919ffdccfc3cdf383c
+![Uploading Neon Tech Stack Dashboard.png…]()
+
 
 
 
