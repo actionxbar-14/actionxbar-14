@@ -97,23 +97,18 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 
 ---
-
 ---
 
-## 📊 GitHub Analytics & Contribution Graph
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/actionxbar-14/actionxbar-14/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Heatmap"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=actionxbar-14&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=actionxbar-14&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="glancecard/profile-dark.svg">
-  <img src="glancecard/profile-light.svg" width="100%" alt="GitHub Contribution Analytics Chart">
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=actionxbar-14&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
 
 ---
 ---
