@@ -127,13 +127,7 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 <p alig n="center"> <a href="https://www.hackerrank.com/profile/ankitpaths144"> <img src="https://img.shields.io/badge/HackerRank-Live%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a> </p>
 
-📈 Problem Solving Focus
 
-
-SQL                 ███████████████
-Python              █████████████░░
-Algorithms          ██████████░░░░
-Data Structures     ████████░░░░░░
 
 
 
@@ -153,9 +147,20 @@ Data Structures     ████████░░░░░░
 
 ---
 
-## 📊 Contribution Graph
+## 📊 GitHub Contribution & Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=actionxbar-14&theme=tokyo-night&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=actionxbar-14&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+### Recent Repository Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<p align="center">
+  <i>Consistently learning, building, and contributing to data-driven projects.</i>
+</p>
 
 ---
 
