@@ -72,6 +72,10 @@ I regularly share my learning journey, projects, and insights related to Data An
 **Career Progression:** Data Analyst → BFSI + Fabric Data Analyst → Analytics Data Engineer
 ---
 
+
+
+
+
 ## 🛠️ Tech Stack
 
 ### Programming & Analytics
