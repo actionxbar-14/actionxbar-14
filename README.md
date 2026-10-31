@@ -35,30 +35,38 @@ I regularly share my learning journey, projects, and insights related to Data An
 ## 📈 Current Learning Path
 
 ```text
-        SQL & Advanced Querying
-                  ↓
-       Python for Data Analytics
-          (Pandas | NumPy | Matplotlib | Seaborn)
-                  ↓
-       Exploratory Data Analysis
-          (EDA & Data Cleaning)
-                  ↓
-       Power BI & Business Intelligence
-          (Data Modeling & DAX)
-                  ↓
-       BFSI / FinTech Domain Analytics
-       (Banking, Payments & Lending)
-                  ↓
+            SQL & Advanced Querying
+                    ↓
+
+           Python for Data Analytics
+     [ Pandas | NumPy | Matplotlib | Seaborn ]
+                    ↓
+
+           Data Analysis Process ( DAP ) 
+     [  Data Cleaning |  EDA |  Statistics ]
+                    ↓
+
+         Power BI & Business Intelligence
+    [ Data Modelling | DAX | Visuals Dashboard ]
+                    ↓
+
+         BFSI / FinTech Domain Knowledge
+         [ Banking, Payments & Lending ]
+                    ↓
+
           Microsoft Fabric Analytics
-       (Lakehouse, Data Factory & OneLake)
-                  ↓
-       Data Engineering Fundamentals
-          (ETL / ELT & Data Modeling)
-                  ↓
+       [ Lakehouse, Data Factory & OneLake ]
+                    ↓
+
+        Data Engineering Fundamentals
+        [ ETL / ELT & Data Modeling ] 
+                   ↓
+
        Data Warehousing & Data Lakes
-                  ↓
+                   ↓
+
        Cloud Analytics Engineering
-          (Azure & Big Data)
+          [ Azure & Big Data ]
 ```
 
 **Career Progression:** Data Analyst → BFSI + Fabric Data Analyst → Analytics Data Engineer
