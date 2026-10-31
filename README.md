@@ -104,14 +104,14 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 <p align="center">
   <a href="https://leetcode.com/u/kOq6PDjCNg/">
-    <img src="https://leetcard.jacoblin.cool/kOq6PDjCNg?theme=dark&font=baloo_2" width="100%" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/kOq6PDjCNg?theme=dark&font=baloo_2" width="60%" alt="LeetCode Stats"/>
   </a>
 </p>
 
 ### 📅 Submission Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kOq6PDjCNg?theme=dark&ext=heatmap" width="100%" alt="LeetCode Submission Heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/kOq6PDjCNg?theme=dark&ext=heatmap" width="60%" alt="LeetCode Submission Heatmap"/>
 </p>
 
 <p align="center">
