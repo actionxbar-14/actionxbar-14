@@ -102,13 +102,6 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 ## 🏆 LeetCode Analytics Dashboard
 
-<p align="center">
-  <a href="https://leetcode.com/u/kOq6PDjCNg/">
-    <img src="https://leetcard.jacoblin.cool/kOq6PDjCNg?theme=dark&font=baloo_2" width="60%" alt="LeetCode Stats"/>
-  </a>
-</p>
-
-### 📅 Submission Activity
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kOq6PDjCNg?theme=dark&ext=heatmap" width="60%" alt="LeetCode Submission Heatmap"/>
