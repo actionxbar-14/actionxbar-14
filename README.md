@@ -69,9 +69,10 @@ I regularly share my learning journey, projects, and insights related to Data An
           [ Azure & Big Data ]
 ```
 
-**Career Progression** : 
+## Career Progression: 
 
- ** Data Analyst**   →   **BFSI + Fabric Data Analyst**    →    **Analytics Data Engineer**
+Data Analyst   →  BFSI + Fabric Data Analyst   →    **Analytics Data Engineer
+ 
 ---
 
 
