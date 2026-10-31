@@ -78,55 +78,7 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 ## 🛠️ Tech Stack
 
-### SQL
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-### Python
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### Power BI
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-### Excel
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-
-### Exploratory Data Analysis (EDA)
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-### Microsoft Fabric
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoftfabric&logoColor=white" />
-</p>
-
-### Azure Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure" />
-</p>
-
-### Apache Spark
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-</p>
-
-
-
-<p alig n="center"> <a href="https://www.hackerrank.com/profile/ankitpaths144"> <img src="https://img.shields.io/badge/HackerRank-Live%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a> </p>
-
+https://chatgpt.com/s/m_6ae5d5f7721c81919ffdccfc3cdf383c
 
 
 
