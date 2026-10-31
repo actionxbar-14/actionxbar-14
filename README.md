@@ -38,7 +38,7 @@ I regularly share my learning journey, projects, and insights related to Data An
         SQL & Advanced Querying
                   ↓
        Python for Data Analytics
-          (Pandas & NumPy)
+          (Pandas | NumPy | Matplotlib | Seaborn)
                   ↓
        Exploratory Data Analysis
           (EDA & Data Cleaning)
@@ -57,10 +57,8 @@ I regularly share my learning journey, projects, and insights related to Data An
                   ↓
        Data Warehousing & Data Lakes
                   ↓
-       Cloud Data Engineering
-          (AWS & Big Data)
-                  ↓
-       Apache Spark & Distributed Processing
+       Cloud Analytics Engineering
+          (Azure & Big Data)
 ```
 
 **Career Progression:** Data Analyst → BFSI + Fabric Data Analyst → Analytics Data Engineer
