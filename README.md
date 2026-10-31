@@ -98,6 +98,12 @@ Data Analyst   →  BFSI + Fabric Data Analyst   →    Analytics Data Engineer
 
 ---
 
+📊 GitHub Analytics & Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/actionxbar-14/actionxbar-14/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" width="100%" />
+</p>
+
 ---
 
 ## 🏆 LeetCode Analytics Dashboard
